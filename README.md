@@ -45,18 +45,18 @@
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
-<p align="left">Currently, I am cooperating with many companies, including the technical complex and the computer engineering company in Tehran, and I also do my own projects as a freelancer.</p>
+<p align="left">📌Currently, I am cooperating with many companies, including the technical complex and the computer engineering company in Tehran, and I also do my own projects as a freelancer.</p>
 
 ###
 
-<p align="left">Currently, I am looking for a hard-working and talented programming team to implement my main goals in parallel to start a comprehensive programming company.</p>
+<p align="left">📌Currently, I am looking for a hard-working and talented programming team to implement my main goals in parallel to start a comprehensive programming company.</p>
 
 ###
 
-<p align="left">I have written various articles in the field of blockchain infrastructure and different layers and networks, including Bitcoin, Ethereum, and Solana, and I am trying to cooperate with a programming team in this field.</p>
+<p align="left">📌I have written various articles in the field of blockchain infrastructure and different layers and networks, including Bitcoin, Ethereum, and Solana, and I am trying to cooperate with a programming team in this field.</p>
 
 ###
