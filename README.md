@@ -65,7 +65,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Javad-Ahmadpoor/Javad-Ahmadpoor/output/snake.svg" alt="Snake animation" />
-
-###
