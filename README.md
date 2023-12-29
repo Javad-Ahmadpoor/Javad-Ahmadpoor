@@ -1,34 +1,59 @@
-<h1 align="center">Hi 👋, I'm Javad-Ahmadpoor</h1>
-<h3 align="center">An artificial intelligence and desktop developer.</h3>
+<h2 align="left">HI👋🏻! My name is Javad, but they call me Yuri</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javad-ahmadpoor&label=Profile%20views&color=0e75b6&style=flat" alt="javad-ahmadpoor" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/javad ahmadpoor" target="blank"><img src="https://img.shields.io/twitter/follow/javad ahmadpoor?logo=twitter&style=for-the-badge" alt="javad ahmadpoor" /></a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="100" alt="c logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="100" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="100" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" alt="react logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="100" alt="swift logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="100" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="100" alt="visualstudio logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="100" alt="polygon logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="100" alt="xamarin logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="100" alt="vagrant logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="100" alt="atom logo"  />
+</div>
 
-- 📌 I’m currently working on : **Creating an online platform for sharing content or services**
+###
 
-- 💻 I’m currently learning : **swift and Objective-C**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="50" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+</div>
 
-- 📱 I’m looking to collaborate on : **Developing a mobile application for a business or organization**
+###
 
-- 📝 I regularly write articles on : [solving basic blockchain problems, which can refer to the infrastructure and layers of different networks.](solving basic blockchain problems, which can refer to the infrastructure and layers of different networks.)
+<div align="left">
+</div>
 
-- 📩 The best way of communication : **ahmadpoorjavad742653@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/javad ahmadpoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javad ahmadpoor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javad-ahmadpoor-75bb0b289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javad-ahmadpoor-75bb0b289" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sgt.yuri._.xmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sgt.yuri._.xmt" height="30" width="40" /></a>
-<a href="https://discord.gg/461257493067071498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="461257493067071498" height="30" width="40" /></a>
-</p>
+<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javad-ahmadpoor&show_icons=true&locale=en&layout=compact" alt="javad-ahmadpoor" /></p>
+<p align="left">STUDY COMPUTER ENGINEERING-(AI) PROGRAMMER-QUALITY ASSURANCE BACKEND/DESKTOP-DEVELOPER <br>CONSULTING TECHNICAL SERVICES<br>BLOCKCHAIN INFRASTRUCTURE DEVELOPER<br>FINANCIAL MARKET-CRYPTOCURRENCY<br>SERVER AND NETWORK INSTALLATION</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javad-ahmadpoor&show_icons=true&locale=en" alt="javad-ahmadpoor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javad-ahmadpoor&" alt="javad-ahmadpoor" /></p>
-
+###
